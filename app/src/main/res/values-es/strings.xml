@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sunmi Printer Demo</string>
+    <string name="titleApp">Demostración de Impresora Sunmi</string>
+    <string name="btnLabelPrintText">Imprimir Texto</string>
+    <string name="btnPrintBarcode">Imprimir Código de Barras</string>
+    <string name="btnPrintQr">Imprimir Código QR</string>
+    <string name="btnPrintImage">Imprimir Imagen</string>
+    <string name="btnPrintTicket">Imprimir Recibo Completo</string>
+    <string name="labelPrintLabel">Estado: No conectado</string>
+    <string name="labelPrintStatus">Status: Online</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sunmi Printer Demo</string>
+    <string name="titleApp">Sunmi Printer Demo</string>
+    <string name="btnLabelPrintText">Print Text</string>
+    <string name="btnPrintBarcode">Print Barcode</string>
+    <string name="btnPrintQr">Print QR Code</string>
+    <string name="btnPrintImage">Print Image</string>
+    <string name="btnPrintTicket">Print Full Receipt</string>
+    <string name="labelPrintLabel">Status: Not connected</string>
+    <string name="labelPrintStatus">Status: Online</string>
+</resources>
