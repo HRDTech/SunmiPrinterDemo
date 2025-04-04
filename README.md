@@ -13,7 +13,7 @@ Esta aplicación Android, desarrollada en Kotlin, permite imprimir texto, imáge
 ## Requisitos
 
 - Android Studio 4.0 o superior.
-- Dispositivo Sunmi P3 para pruebas reales.
+- Dispositivo POS Sunmi para pruebas reales.
 - Kotlin 1.5.21 o superior.
 - Dependencia: `com.sunmi:printerlibrary:1.0.17`.
 
